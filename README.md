@@ -20,7 +20,7 @@ Este projeto é uma landing page para um Personal Trainer, desenvolvida utilizan
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/landing-page-personal.git
+   git clone https://github.com/TeoCarvalho/landing-page-personal.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
@@ -30,7 +30,8 @@ Este projeto é uma landing page para um Personal Trainer, desenvolvida utilizan
 
 ## 🌐 Deploy no GitHub Pages
 O projeto está disponível online em:  
-🔗 [https://seu-usuario.github.io/landing-page-personal/](https://seu-usuario.github.io/landing-page-personal/)
+🔗 [https://TeoCarvalho.github.io/landing-page-personal/](https://TeoCarvalho.github.io/landing-page-personal/)
 
 ## 📩 Contato
 Caso tenha dúvidas ou sugestões, entre em contato pelo formulário da página! 😉
+
